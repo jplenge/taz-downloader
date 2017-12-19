@@ -2,6 +2,6 @@
 
 A command line tool to download the latest issues from the homeapge of the german newspaper die tageszeitung as epub, pdf or mobi file.
 
-Usage: ./taz-dl.py -f <format> -d <destination>
+Usage: ./taz-dl.py -f format -d destination
 
-Available foramts: epub, pdf, mobi
+Available formats: epub, pdf, mobi
